@@ -1,8 +1,8 @@
 class SkeletonCli < Formula
   desc "This is the skeleton command for the initial project file deployment."
   homepage "https://github.com/departure-inc/homebrew-skeleton-cli"
-  url "https://github.com/departure-inc/skeleton-cli/releases/download/v0.1.0/skeleton"
-  sha256 "db8ac0fc7c7ef9e90c5de2b9d29459484dc01f15391610318d6a8ed320dc632b"
+  url "https://github.com/departure-inc/skeleton-cli/releases/download/v0.2.0/skeleton"
+  sha256 "850d3a8776072345f385f8daf73f75f4048d36febf5d1198317b0f6f439e64a6"
   license "MIT"
 
   def install
